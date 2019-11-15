@@ -1,0 +1,16 @@
+{
+  "name": "caching-by-examples",
+  "version": "1.0.0",
+  "description": "Demonstrate HTTP caching by browsers by providing web application and api.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joscelynjean/caching-by-examples.git"
+  },
+  "author": "Joscelyn Jean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joscelynjean/caching-by-examples/issues"
+  },
+  "homepage": "https://github.com/joscelynjean/caching-by-examples#readme"
+}

@@ -1,0 +1,14 @@
+<h1>Caching by examples</h1>
+<div><span>Look into Browser development console and API console to understand in which case you are.</span></div>
+<div>
+  <button mat-raised-button (click)="reloadPage()">Refresh responses</button>
+</div>
+
+<h2>Cache-Control: public, max-age=30</h2>
+<div>{{response1}}</div>
+
+<h2>With random number in query string, Cache-Control: public, max-age=30</h2>
+<div>{{response2}}</div>
+
+<h2>With constant query string, Cache-Control: public, max-age=30</h2>
+<div>{{response3}}</div>
